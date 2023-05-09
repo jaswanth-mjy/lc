@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia  --->   dataset1
+https://zenodo.org/record/5493595#.ZFpLKHZBy3A     ----> dataset2
